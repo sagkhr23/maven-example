@@ -7,9 +7,9 @@
         <version>3.88-SNAPSHOT</version>
     </parent>
 
-    <artifactId>multi1</artifactId>
+    <artifactId>multi1-Sahil</artifactId>
     <packaging>jar</packaging>
-    <name>Multi1-Sahil</name>
+    <name>Multi 1</name>
 
     <licenses>
         <license>
